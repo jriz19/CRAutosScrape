@@ -1,0 +1,28 @@
+{
+  "sample_scraped_vehicle": {
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1234567&BRAND.MODEL.YEAR",
+    "vehicle_id": "1234567",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price_colones": 12000000,
+    "price_usd": 24000,
+    "mileage": 45000,
+    "fuel_type": "Gasolina",
+    "transmission": "Automática",
+    "engine_cc": 1800,
+    "doors": 4,
+    "style": "Sedán",
+    "color_exterior": "Blanco",
+    "color_interior": "Negro",
+    "location": "San José",
+    "province": "San José",
+    "seller_phone": "2222-3333",
+    "seller_whatsapp": "https://api.whatsapp.com/send?text=...",
+    "description": "Vehicle description text...",
+    "features": "Air conditioning, Power steering, ABS...",
+    "images": "image1.jpg,image2.jpg,image3.jpg",
+    "scraped_at": "2025-01-26T20:18:35.302140"
+  },
+  "note": "This is a sample structure. Actual scraped data will be stored in raw_data/ directory and processed through ETL pipeline to create clean datasets in data/ directory."
+}
