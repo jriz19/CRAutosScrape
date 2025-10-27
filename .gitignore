@@ -85,6 +85,10 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
+# Documentation (except setup)
+*.md
+!SETUP.md
+
 # Temporary files
 *.tmp
 *.temp
