@@ -105,7 +105,7 @@ This project demonstrates the power of AI-assisted development:
 
 ## 📄 License
 
-MIT License - Feel free to use and modify
+Feel free to use and modify
 
 ---
 
