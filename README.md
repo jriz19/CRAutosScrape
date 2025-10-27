@@ -98,10 +98,8 @@ This project demonstrates the power of AI-assisted development:
 
 ## 🔮 Future Improvements
 
-- Fix mileage extraction (80% missing data)
-- Add accident history integration
+- Fix mileage extraction (80% missing data) - valuable feature for price prediction
 - Implement mobile-responsive UI
-- Expand to other Central American markets
 
 ## 📄 License
 
